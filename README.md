@@ -49,4 +49,4 @@ The project consists of the following files:
 
 1. Clone the repository to your local machine:  
    ```bash
-   git clone https://github.com/your-username/atm-project.git
+   git clone https://github.com/RudraTrivedi2001/ATM-Project.git
